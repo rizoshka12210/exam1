@@ -448,3 +448,54 @@ justify-content:space-between;
 cursor:pointer;
 color: #57b091;
 }
+
+footer{
+    background-color: #2e3a46;
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: start;
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 90px;
+    margin-bottom: -280px;
+}
+.siti{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    background-color: #2e3a46;
+}
+.siti p{
+    background-color: #2e3a46;
+}
+.m{
+    color: white;
+}
+.q{
+    color: #707882;
+}
+.n{
+    color: #5EB083;
+}
+.sic{
+    background-color: #2e3a46;
+    display: flex;
+    gap: 5px;
+}
+.sic div {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #272A2D;
+    text-align: center;
+    align-content: center;
+}
+.sic img{
+    background-color: transparent;
+}
+footer img{
+    background-color: transparent;
+}
