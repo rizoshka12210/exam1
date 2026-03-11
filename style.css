@@ -293,3 +293,16 @@ cursor:pointer;
     background-color: #E7EEFA;
     padding: 13px 24px;
 }
+.sure{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+    flex-direction: column;
+}
+.sure h1{
+    font-size: 40px;
+}
