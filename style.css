@@ -161,3 +161,43 @@ height: 80%;
     align-items: center;
     gap: 270px;
 }
+.help{
+    max-width: 1200px;
+    margin: 110px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+}
+.help h1{
+    font-size: 40px;
+}
+.help h4{
+    color: #5B6574;
+}
+.prof{
+    display: flex;
+    margin: 40px auto;
+}
+.prof div img{
+    width: 90%;
+}
+.prof div {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+.arrow{
+    width: 7%;
+    height: 70px;
+    position: relative;
+    top: 70px;
+    right: 20px;
+}
+.arrow1{
+    right: 0px;
+}
+.ui{
+    color: #57b091;
+}
