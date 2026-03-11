@@ -274,3 +274,22 @@ color:white;
 font-size:14px;
 cursor:pointer;
 }
+.platform{
+    max-width: 1200px;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.platform h1{
+    font-size: 40px;
+}
+.platform h5{
+    color: #5B6574;
+}
+.platform button{
+    border: none;
+    border-radius: 15px;
+    background-color: #E7EEFA;
+    padding: 13px 24px;
+}
